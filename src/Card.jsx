@@ -4,7 +4,7 @@ function Card(props) {
 
     return (
         <>
-        <p className='miHeader' style={{color: props.color}}>Estamos aprendiendo React {props.lenguaje}</p>
+        <h1 className='miHeader' style={{color: props.color}}>Estamos aprendiendo React {props.lenguaje}</h1>
         </>
     )
 }
