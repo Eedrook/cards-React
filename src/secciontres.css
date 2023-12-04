@@ -1,0 +1,37 @@
+.Creadores{
+    background-color: #6096B4;
+}
+
+.decreadores{
+    background-color: #93BFCF;
+}
+
+.titulocreadores{
+    color: #EDE9DA;
+}
+
+.card{
+    width: 15rem;
+    background-color: #93BFCF;
+    border: none;
+}
+
+.btn3 {
+    position: relative;
+    padding: 10px 15px;
+    background-color: #EEE9DA;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    color: #77a9bb;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.btn3 :hover{
+    color: #416d7d;
+}
+
+.card-body{
+    background-color: #93BFCF;
+}

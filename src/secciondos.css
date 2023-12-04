@@ -1,0 +1,45 @@
+#Comicsection{
+    background-color: #6096B4;
+    margin-top: 10%;
+}
+
+.titulocomic{
+    color: #EDE9DA;
+}
+
+.imagenuno{
+    width: 150px;
+    height: 200;
+}
+
+.imagen1{
+    margin-left: 60px;
+}
+
+.imagenes2{
+    margin-left: 50px;
+}
+
+.btn1 {
+    position: relative;
+    padding: 55px  25px;
+    background-color: #EEE9DA;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    color: #77a9bb;
+    cursor: pointer;
+    transition: .5s;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn1 :hover{
+    color: #416d7d;
+}
+.sinopsis {
+    background-color: #93BFCF;
+}
+.sinopsistitulo {
+    color: #EDE9DA;
+}

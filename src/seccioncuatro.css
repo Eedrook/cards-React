@@ -1,0 +1,34 @@
+.comic-gallery{
+    background-color: #6096B4;
+}
+
+.titulopersonajes{
+    color: #EDE9DA;
+}
+
+.btn2 {
+    position: relative;
+    padding: 10px 15px;
+    background-color: #EEE9DA;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    color: #77a9bb;
+    cursor: pointer;
+    transition: .5s;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn2 :hover{
+    color: #416d7d;
+}
+.modal-header{
+    background-color: #6096B4;
+}
+.modal-body{
+    background-color: #93BFCF;
+}
+.modal-footer{
+    background-color: #6096B4;
+}
